@@ -5977,3 +5977,127 @@ STR_BADGE_CONFIG_PREVIEW                                        :Vorschaubild
 STR_BADGE_CONFIG_NAME                                           :Name
 STR_BADGE_FILTER_ANY_LABEL                                      :{G "Beliebiger" "Beliebige" "Beliebiges" "Beliebige"} {STRING}
 STR_BADGE_FILTER_IS_LABEL                                       :{STRING} ist {STRING}
+
+# Archipelago strings for translation
+STR_CARGO_SINGULAR_PACKAGES                                     :{G=n}Paket
+STR_CARGO_PLURAL_PACKAGES                                       :{G=w}Pakete
+STR_QUANTITY_PACKAGES                                           :{COMMA}{NBSP}Paket{P "" e}
+STR_ABBREV_PACKAGES                                             :PK
+
+STR_INTRO_ARCHIPELAGO                                           :{BLACK}Archipelago
+STR_INTRO_TOOLTIP_ARCHIPELAGO                                   :{BLACK}Verbinden zu einem Archipelago multiworld randomizer Server
+
+STR_ARCHIPELAGO_CAPTION                                         :Archipelago - Verbinden
+STR_ARCHIPELAGO_LABEL_SERVER                                    :{BLACK}Server:
+STR_ARCHIPELAGO_LABEL_SLOT                                      :{BLACK}Slotname:
+STR_ARCHIPELAGO_LABEL_PASS                                      :{BLACK}Password:
+STR_ARCHIPELAGO_BTN_CONNECT                                     :{BLACK}Verbinden
+STR_ARCHIPELAGO_BTN_DISCONNECT                                  :{BLACK}Trennen
+STR_ARCHIPELAGO_BTN_NEWGRF                                      :{BLACK}NewGRF
+STR_ARCHIPELAGO_BTN_CLOSE                                       :{BLACK}Schließen
+STR_ARCHIPELAGO_LABEL_TOWNS                                     :{BLACK}Stadtnamen:
+STR_ARCHIPELAGO_TOWNS_AUTO                                      :{BLACK}Spieler
+STR_ARCHIPELAGO_TOWNS_AUTO_TIP                                  :{BLACK}Städte nach Spielern im Archipelago multiworld Randomizer benennen. Jeder Spieler bekommt eine Stadt nach ihm benannt wenn eine neue Welt generiert wird.
+STR_ARCHIPELAGO_TOWNS_CUSTOM                                    :{BLACK}Benutzerdefiniert
+STR_ARCHIPELAGO_TOWNS_CUSTOM_TIP                                :{BLACK}Städte nach eigener liste umbenennen. Namen mit Komma getrennt auflisten.
+STR_ARCHIPELAGO_TOWNS_OFF                                       :{BLACK}Aus
+STR_ARCHIPELAGO_TOWNS_OFF_TIP                                   :{BLACK}Städe behalten ihre Ursprunglichen generierten Namen.
+STR_ARCHIPELAGO_LABEL_CUSTOM_NAMES                              :{BLACK}Namen (csv):
+STR_ARCHIPELAGO_CUSTOM_NAMES_HINT                               :{BLACK}Namen mit Komma getrennt eingeben. z.b.: London, Paris, Berlin. Städte werden umbenannt wenn eine neue Welt generiert wird.
+STR_ARCHIPELAGO_STATUS_CAPTION                                  :Archipelago Status
+STR_ARCHIPELAGO_BTN_RECONNECT                                   :{BLACK}Wiederverbinden
+STR_ARCHIPELAGO_BTN_SETTINGS                                    :{BLACK}Einstellungen
+STR_ARCHIPELAGO_BTN_MISSIONS                                    :{BLACK}Missionen
+STR_ARCHIPELAGO_BTN_SHOP                                        :{BLACK}Shop
+STR_ARCHIPELAGO_MISSIONS_CAPTION                                :Archipelago - Missionen
+STR_ARCHIPELAGO_FILTER_ALL                                      :{BLACK}Alles
+STR_ARCHIPELAGO_FILTER_EASY                                     :{BLACK}Leicht
+STR_ARCHIPELAGO_FILTER_MEDIUM                                   :{BLACK}Mittel
+STR_ARCHIPELAGO_FILTER_HARD                                     :{BLACK}Schwer
+STR_ARCHIPELAGO_FILTER_EXTREME                                  :{BLACK}Extreme
+STR_ARCHIPELAGO_TAB_TASKS                                       :{BLACK}Aufgaben
+STR_ARCHIPELAGO_NEWS                                            :{STRING}
+STR_AP_STATUSBAR_CHECKS                                         :{YELLOW}Checks: {NUM}/{NUM}
+STR_ARCHIPELAGO_START_CHOICE_CAPTION                            :{BLACK}Archipelago
+STR_ARCHIPELAGO_START_CHOICE_MESSAGE                            :{BLACK}Verbunden! Neue Welt generieren?{}{}Ja = Neues Spiel     Nein = Spielstand Laden
+STR_ARCHIPELAGO_START_CHOICE_CAPTION_V2                         :{BLACK}Archipelago - Start
+STR_ARCHIPELAGO_START_SINGLE                                    :{BLACK}Einzelspieler
+STR_ARCHIPELAGO_START_HOST                                      :{BLACK}Mehrspieler Hosten
+STR_ARCHIPELAGO_START_LOAD                                      :{BLACK}Spielstand Laden
+STR_ARCHIPELAGO_START_MESSAGE                                   :{BLACK}Verbunden! Choose how to start:
+STR_AP_JOIN_CAPTION                                             :{BLACK}Archipelago Spiel Beitreten
+STR_AP_JOIN_LABEL_APSERVER                                      :{BLACK}AP Server:
+STR_AP_JOIN_LABEL_SLOT                                          :{BLACK}Slotname:
+STR_AP_JOIN_LABEL_PASSWORD                                      :{BLACK}Passwort:
+STR_AP_JOIN_LABEL_PLAYERNAME                                    :{BLACK}Spielername:
+STR_AP_JOIN_LABEL_GAMESERVER                                    :{BLACK}Server:
+STR_AP_JOIN_BTN_CONNECT                                         :{BLACK}Spiel Beitreten
+STR_AP_JOIN_STATUS_CONNECTING                                   :{BLACK}Verbinden zu Spielserver...
+STR_AP_JOIN_STATUS_AP_CONNECTING                                :{BLACK}Verbinden zu AP-Server...
+STR_AP_JOIN_STATUS_DONE                                         :{BLACK}Verbunden!
+STR_AP_JOIN_STATUS_FAILED                                       :{BLACK}Verbindung fehlgeschlagen.
+STR_AP_OPEN_MP_BTN                                              :{BLACK}Öffne Mehrspieler
+STR_AP_OPEN_MP_STATUS                                           :{BLACK}Spielserver läuft auf Port {NUM}
+STR_INTRO_JOIN_MULTIPLAYER                                      :{BLACK}AP-Spiel Beitreten
+STR_INTRO_TOOLTIP_JOIN_MULTIPLAYER                              :{BLACK}Trete einen Archipelago Mehrspieler Spiel einesn anderen Spielers bei.
+STR_ARCHIPELAGO_SHOP_CAPTION                                    :Archipelago - Shop
+STR_ARCHIPELAGO_SHOP_BUY                                        :{BLACK}Kaufe Ausgewähltes Item
+STR_ARCHIPELAGO_GUIDE_CAPTION                                   :Archipelago - Guide & Tipps
+STR_ARCHIPELAGO_BTN_GUIDE                                       :{BLACK}Guide
+STR_ARCHIPELAGO_BTN_COLBY                                       :{BLACK}Events
+STR_ARCHIPELAGO_NEWS_LABEL                                      :{BLACK}Nachrichten:
+STR_ARCHIPELAGO_NEWS_OFF                                        :{BLACK}Aus
+STR_ARCHIPELAGO_NEWS_SELF                                       :{BLACK}Eigene
+STR_ARCHIPELAGO_NEWS_ALL                                        :{BLACK}Alle
+STR_ARCHIPELAGO_BTN_DEMIGOD                                     :{BLACK}Halbgott
+STR_ARCHIPELAGO_DEMIGOD_CAPTION                                 :God of Wackens - Halbgott
+STR_ARCHIPELAGO_DEMIGOD_PAY_TRIBUTE                             :{BLACK}Tribut Zahlen
+STR_ARCHIPELAGO_DEMIGOD_DISMISS                                 :{BLACK}Freund entlassen
+STR_ARCHIPELAGO_DEMIGOD_CLOSE                                   :{BLACK}Schließen
+STR_ARCHIPELAGO_RUIN_CAPTION                                    :{WHITE}Antike Ruine
+STR_ARCHIPELAGO_RUIN_LOCATION                                   :{BLACK}Standort: {STRING}
+STR_ARCHIPELAGO_RUIN_TOWN                                       :{BLACK}In der Nähe von: {STRING}
+STR_ARCHIPELAGO_RUIN_CARGO_HEADER                               :{BLACK}Benötigte Facht um Ruine zu Reinigen:
+STR_ARCHIPELAGO_RUIN_CARGO_LINE                                 :{BLACK}  {STRING}: {NUM} / {NUM}
+STR_ARCHIPELAGO_RUIN_CARGO_DONE                                 :{GREEN}  {STRING}: {NUM} / {NUM} (done!)
+STR_ARCHIPELAGO_RUIN_STATUS_ACTIVE                              :{RED}Liefere die benötigte Fracht an einer Station in der Nähe der Ruinen ab.
+STR_ARCHIPELAGO_RUIN_STATUS_COMPLETE                            :{GREEN}Diese Ruine wurde gesäubert! Der AP Check wurde gesendet.
+STR_ARCHIPELAGO_COLBY_CAPTION                                   :Archipelago - Events
+STR_ARCHIPELAGO_GUIDE_TAB_COMMANDS                              :{BLACK}AP Commands
+STR_ARCHIPELAGO_GUIDE_TAB_HOTKEYS                               :{BLACK}Schnelltasten
+STR_ARCHIPELAGO_GUIDE_TAB_TIPS                                  :{BLACK}Tips
+STR_ARCHIPELAGO_BTN_INDEX                                       :{BLACK}Index
+STR_ARCHIPELAGO_INDEX_CAPTION                                   :Archipelago - Fahrzeugverzeichniss
+STR_ARCHIPELAGO_INDEX_TAB_TRAINS                                :{BLACK}Züge
+STR_ARCHIPELAGO_INDEX_TAB_ROAD                                  :{BLACK}Straßenfahrzeuge
+STR_ARCHIPELAGO_INDEX_TAB_AIRCRAFT                              :{BLACK}Luftfahrzeuge
+STR_ARCHIPELAGO_INDEX_TAB_SHIPS                                 :{BLACK}Schiffe
+STR_ARCHIPELAGO_INDEX_TAB_WAGONS                                :{BLACK}Waggons
+STR_ARCHIPELAGO_BTN_RUINS                                       :{BLACK}Ruinen
+STR_ARCHIPELAGO_BTN_STARS                                       :{BLACK}Stars
+STR_ARCHIPELAGO_STAR_TRACKER_CAPTION                            :Star-Tracker
+STR_ARCHIPELAGO_STAR_REVEAL_BTN                                 :{BLACK}Star-Ort aufdecken
+STR_ARCHIPELAGO_BTN_DAYNIGHT_ON                                 :{BLACK}Tag/Nacht: AN
+STR_ARCHIPELAGO_BTN_DAYNIGHT_OFF                                :{BLACK}Tag/Nacht: AUS
+STR_ARCHIPELAGO_RUINS_CAPTION                                   :Archipelago - Ruinen-Tracker
+STR_ERROR_ARCHIPELAGO_RAIL_DIR_LOCKED                           :Diese Gleisrichtung ist gesperrt. Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_ROAD_DIR_LOCKED                           :Diese Straßenrichtung ist gesperrt. Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_SIGNAL_LOCKED                             :Dieser Signaltyp ist gesperrt.  Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_BRIDGE_LOCKED                             :Dieser Brückentyp ist gesperrt.  Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_TUNNEL_LOCKED                             :Tunnelbau ist gesperrt. Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_AIRPORT_LOCKED                            :Dieser FLughafentyp ist gesperrt. Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_TREE_LOCKED                               :Diese Baumart ist gesperrt. Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_TERRAFORM_LOCKED                          :Landschaftsgestaltung in dieser Richtung ist gesperrt. Schalte ihn über Archipelago frei.
+STR_ERROR_ARCHIPELAGO_TERRAFORM_RAISE_LOCKED                    :Landanheben ist gesperrt. Finde "Terraform: Raise Land" um es freizuschalten.
+STR_ERROR_ARCHIPELAGO_TERRAFORM_LOWER_LOCKED                    :Landsenken ist gesperrt. Finde "Terraform: Lower Land" um es freizuschalten.
+
+STR_AP_COLBY_ARREST_CAPTION                                     :Die Colby-Affäre
+STR_AP_COLBY_ARREST_QUERY                                       :Colby ist als Schmuggler aufgeflogen! Er nutzte dein Netzwerk für illegale Frachttransporte. Verhafte ihn für 10.000.000 £ Belohnung – oder lass ihn ziehen?
+STR_AP_COLBY_ESCAPE_CAPTION                                     :Colby wieder in Gewahrsam
+STR_AP_COLBY_ESCAPE_QUERY                                       :Colby wurde an der Grenze gefasst! Übergib ihn den Behörden – oder opfere ihn den Älteren Göttern für 2.000.000 £ und einen massiven Schub für dein Stadtwachstum?
+STR_AP_COLBY_BTN_ARREST                                         :{BLACK}Colby festnehmen (10.000.000 £ Belohnung)
+STR_AP_COLBY_BTN_ESCAPE                                         :{BLACK}Ihn entkommen lassen...
+STR_AP_COLBY_BTN_IMPRISON                                       :{BLACK}Den behörden übergeben
+STR_AP_COLBY_BTN_SACRIFICE                                      :{BLACK}Den Älteren Göttern opfern (£2M + Wachstum)
+STR_AP_COLBY_BTN_REOPEN                                         :{BLACK}Entscheidung zu Colby erneut öffnen
+STR_AP_COLBY_DECISION_CAPTION                                   :Colby's Schicksal
